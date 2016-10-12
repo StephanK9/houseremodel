@@ -1,3 +1,29 @@
-.columnbefore{
+p{
+  margin-left: 30px;
+}
+img {
+  width: 300px;
+  height: 250px;
+}
+.photo{
   float:left;
+  padding: 30px;
+}
+.text{
+  width: 300px;
+  float: left;
+  padding: 30px;
+}
+.text1{
+  width: 300px;
+  float: left;
+  padding: 30px;
+}
+.photo1{
+  float:left;
+  padding: 30px;
+}
+
+.clear {
+  clear: left;
 }
