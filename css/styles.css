@@ -7,21 +7,26 @@ img {
 }
 .photo{
   float:left;
-  padding: 30px;
 }
 .text{
   width: 300px;
   float: left;
   padding: 30px;
+  background-color: lightpink;
+  border: 2px solid black;
+  margin: 30px;
 }
 .text1{
   width: 300px;
   float: left;
+  margin: 30px;
+  background-color: lightblue;
+  border: 2px solid black;
   padding: 30px;
 }
 .photo1{
   float:left;
-  padding: 30px;
+  margin: 10px;
 }
 
 .clear {
